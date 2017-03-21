@@ -62,6 +62,7 @@ now you can install module with following instruction.
 
  - Correct English writing wrongs!!!
  - Add encryption with publickey and decryption with privatekey.
+ - Installation using `npm`.
 
 License
 ----
