@@ -60,8 +60,8 @@ now you can install module with following instruction.
 
 ### Todos
 
- - Write MOAR Tests
- - Add Night Mode
+ - Correct English writing wrongs!!!
+ - Add encryption with publickey and decryption with privatekey.
 
 License
 ----
