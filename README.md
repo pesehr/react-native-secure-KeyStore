@@ -49,7 +49,7 @@ now you can install module with following instruction.
     - first go to ios folder and copy all files to ios folder of your project.
     - in this module we use extrenal library named `cryptoswift`. you must install it before using the module. for installation follw this link: https://github.com/krzyzanowskim/CryptoSwift.
     - you must enable key chain sharing. follow this link: https://developer.apple.com/library/content/documentation/IDEs/Conceptual/AppDistributionGuide/AddingCapabilities/AddingCapabilities.html
-    -- if you have problem with adding ios module. your can add ios native module by helping this [link] and my codes.
+		- if you have problem with adding ios module. your can add ios native module by helping this [link] and my codes.
 -   NodeJS
     -
     - you can invoke native methodes by `NativeModule` object. for example you could invoce `generateKeys` method like this:
